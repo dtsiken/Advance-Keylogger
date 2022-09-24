@@ -1,4 +1,4 @@
-Disclaimer! : This is for Educational Purposes Only Don't Use This Program to Steal Information and Spy to Anyone That You Not Have a Permission. Again! I'am Not Responsible for the Risk and Possible Bad Happens With the Help of This Program. Don't Use for Malicious Purposes Don't Go to Jail!, Don't Violate the Law! Use It for Awareness to Your Love Ones and Friends or the Other Near You Also Serves as a Warning to What Will Happen if They Download Software Directly to the Internet Without Checking and Just Run It to the Computer!.
+DISCLAIMER! : THIS IS FOR EDUCATIONAL PURPOSES ONLY DON'T USE THIS PROGRAM TO STEAL INFORMATION AND SPY TO ANYONE THAT YOU NOT HAVE A PERMISSION. AGAIN! I'AM NOT RESPONSIBLE FOR THE RISK AND POSSIBLE BAD HAPPENS WITH THE HELP OF THIS PROGRAM. DON'T USE FOR MALICIOUS PURPOSES DON'T GO TO JAIL!, DON'T VIOLATE THE LAW! USE IT FOR AWARENESS TO YOUR LOVE ONES AND FRIENDS OR THE OTHER NEAR YOU ALSO SERVES AS A WARNING TO WHAT WILL HAPPEN IF THEY DOWNLOAD SOFTWARE DIRECTLY TO THE INTERNET WITHOUT CHECKING AND JUST RUN IT TO THE COMPUTER!.
 
 First We Need to Install in the Terminal Type Pip Install Pynput.
 
