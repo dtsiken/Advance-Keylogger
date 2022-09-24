@@ -28,4 +28,4 @@ Tutorial: Clone This Repository or Download This Repository as Zip and Save It t
 
 ![Screenshot 2022-09-24 213201](https://user-images.githubusercontent.com/101923825/192100802-ecd2fec3-9f55-4195-bda9-ac93b191d81f.png)
 
-I Have to Erase Out the Ip Address for Privacy Purposes but the Program Works Fine Dont Mind the Image if Some of the Logs Are Blank It is for the Safety Measures That I Made Before Publishing.
+I Have to Erase Out the IP Address for Privacy Purposes but the Program Works Fine Dont Mind the Image if Some of the Logs Are Blank It is for the Safety Measures That I Made Before Publishing.
