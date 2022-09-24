@@ -19,3 +19,12 @@ If you want to make it executable just install pyinstaller or nuitka to make it 
 
 ![image](https://user-images.githubusercontent.com/101923825/192100165-056933ac-d5fc-4cb1-83a5-476b8b24ea1c.png)
 
+![image](https://user-images.githubusercontent.com/101923825/192100511-91142b07-bfae-46fb-b563-ec9b5807a5fe.png)
+
+![Screenshot 2022-09-24 212915](https://user-images.githubusercontent.com/101923825/192100694-fe3099ec-f982-49ca-9906-76dacb34cdc4.png)
+
+![image](https://user-images.githubusercontent.com/101923825/192100709-0fe237d9-007e-49b7-bb9c-1f1f01e3cde9.png)
+
+![Screenshot 2022-09-24 213201](https://user-images.githubusercontent.com/101923825/192100802-ecd2fec3-9f55-4195-bda9-ac93b191d81f.png)
+I HAVE TO ERASE OUT THE IP ADDRESS FOR PRIVACY PURPOSES BUT THE PROGRAM WORKS FINE DONT MIND THE IMAGE IF SOME OF THE LOGS ARE BLANK IT FOR THE SAFETY MEASURES THAT I MADE BEFORE PUBLISHING
+
