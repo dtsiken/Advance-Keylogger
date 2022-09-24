@@ -1,8 +1,8 @@
 DISCLAIMER! : THIS IS FOR EDUCATIONAL PURPOSES ONLY DON'T USE THIS PROGRAM TO STEAL INFORMATION AND SPY TO ANYONE THAT YOU NOT HAVE A PERMISSION. AGAIN! I'AM NOT RESPONSIBLE FOR THE RISK AND POSSIBLE BAD HAPPENS WITH THE HELP OF THIS PROGRAM. DON'T USE FOR MALICIOUS PURPOSES DON'T GO TO JAIL!, DON'T VIOLATE THE LAW! USE IT FOR AWARENESS TO YOUR LOVE ONES AND FRIENDS OR THE OTHER NEAR YOU ALSO SERVES AS A WARNING TO WHAT WILL HAPPEN IF THEY DOWNLOAD SOFTWARE DIRECTLY TO THE INTERNET WITHOUT CHECKING AND JUST RUN IT TO THE COMPUTER!.
 
-First We Need to Install in the Terminal or a Command Prompt Type Pip Install Pynput.
+First We Need to Install in the Terminal or a Command Prompt Type "pip install pynput".
 
-Second Library That We Need to Install in the Terminal or a Command Prompt Type pip install pywin32.
+Second Library That We Need to Install in the Terminal or a Command Prompt Type "pip install pywin32".
 
 This is the Advance Keylogger Written in Python Improved Version Unlike Last Time This is Has More Functionality Than That You Can Check It Also Here https://github.com/dtsiken/simple-keylogger. In Addition to My Previous That I Created It Contains Public and Private Ip Address Also Date and Time Stamp is Maintained and the User Profile Name of the Windows Target Computer is Been Added Also. It Creates a Text File and After a Couple of Time You Can Adjust the Delay in the Line 88 and Line 134 It Will Delete and Sends It to Email as a Attachment in This Method I User Random to Create a Random Name in a Number for to the Text File.
 
