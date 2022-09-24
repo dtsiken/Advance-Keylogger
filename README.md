@@ -12,6 +12,7 @@ If you want to make it executable just install pyinstaller or nuitka to make it 
 ![image](https://user-images.githubusercontent.com/101923825/192100076-968eab79-b8f4-4eb6-b9d0-c90feca1b599.png)
 
 ![image](https://user-images.githubusercontent.com/101923825/192100097-17ab9645-53b8-4411-a16e-039403f06eb3.png)
+
 ![image](https://user-images.githubusercontent.com/101923825/192100127-0a2c6f15-616d-46f2-9cd4-49d51c51b110.png)
 
 ![image](https://user-images.githubusercontent.com/101923825/192100176-84219bcd-61d4-459c-9435-ea0ab32fdafc.png)
