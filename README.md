@@ -2,7 +2,7 @@ Disclaimer! : This is for Educational Purposes Only Don't Use This Program to St
 
 First We Need to Install in the Terminal Type Pip Install Pynput.
 
-This is the Advance Keylogger Written in Python Improved Version Unlike Last Time This is Has More Functionality Than That You Can Check It Also Here Https://github.com/dtsiken/simple-keylogger. In Addition to My Previous That I Created It Contains Public and Private Ip Address Also Date and Time Stamp is Maintained and the User Profile Name of the Windows Target Computer is Been Added Also. It Creates a Text File and After a Couple of Time You Can Adjust the Delay in the Line 88 and Line 134 It Will Delete and Sends It to Email as a Attachment in This Method I User Random to Create a Random Name in a Number for to the Text File.
+This is the Advance Keylogger Written in Python Improved Version Unlike Last Time This is Has More Functionality Than That You Can Check It Also Here https://github.com/dtsiken/simple-keylogger. In Addition to My Previous That I Created It Contains Public and Private Ip Address Also Date and Time Stamp is Maintained and the User Profile Name of the Windows Target Computer is Been Added Also. It Creates a Text File and After a Couple of Time You Can Adjust the Delay in the Line 88 and Line 134 It Will Delete and Sends It to Email as a Attachment in This Method I User Random to Create a Random Name in a Number for to the Text File.
 
 Special Feature: This is Not Also Logs Keystrokes and Send to the Email but Also Inside the Text File Attached Contains a Logs of What the Target Browsing or Using Amazing Right!?.
 
